@@ -1,4 +1,4 @@
-def Fibonacci(n):
+def fibonacci(n):
     """
 	Returns nth number in fib seq
     """
