@@ -1,6 +1,6 @@
 machine:
   timezone:
-    Europe/London:
+    Europe/London
   python:
     version: 3.5.0
 
